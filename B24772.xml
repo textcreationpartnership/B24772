@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices and Council, a proclamation. Charles Porter, Coningesby. Whereas by our proclamation of the fourth day of February last, we did pursuant to the articles of Lymerick, great unto several persons thereby qualified lycences for the wearing of arms ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24772</idno><idno type="EEBO-CITATION">99886559</idno>
+  <idno type="VID">186779</idno>
+  <idno type="EEBO-PROQUEST">2240890964</idno>
+  
+            <idno type="STC">Wing I490</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[70]</idno>
+            <idno type="STC">ESTC R226179</idno>
+            <idno type="PROQUEST">ocm99886559</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886559e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186779)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[70])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices and Council, a proclamation. Charles Porter, Coningesby. Whereas by our proclamation of the fourth day of February last, we did pursuant to the articles of Lymerick, great unto several persons thereby qualified lycences for the wearing of arms ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook, assignee of Benj: Tooke, printer to the King and Queen's most Excellent Majesties on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1691 [i.e. 1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Correct imprint date from Steele.</note>
+                  <note>"Given at the Council-Chamber in Dublin the 20th. day of May, 1692.".</note>
+                  <note>All arms to be given up.--Steele.</note>
+                  <note>Steele notation: Arms 193. Fourth design 2) they Proclamation.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186779:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <q xml:lang="frm">JE MEINTIENDRAY</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lords-Justices and Council, A PROCLAMATION.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER,</item>
+                     <item>CONINGESBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by Our Proclamation of the <hi>Fourth</hi> day of <hi>February</hi> last, We did pursuant to the Articles of <hi>Lymerick,</hi> grant unto several Per<g ref="char:EOLhyphen"/>sons thereby qualified Lycences for the wear<g ref="char:EOLhyphen"/>ing of Arms such as are in the said Lycences particularly mentioned. And whereas it hath been observed that many others though they have by former Proclamations been required to bring in their Arms have nevertheless neg<g ref="char:EOLhyphen"/>lected so to do in contempt of our Authority, and as We have good reason to believe with design to disturb the Quiet and Peace of the Kingdom, especially at this time when the <hi>French</hi> King does openly de<g ref="char:EOLhyphen"/>clare his Intentions of a Descent upon some part of Their Majesties Dominions. To the end therefore that as much as in Vs lies We may secure the Publick Peace and prevent the Designs of ill disposed Persons. We therefore do hereby strictly enjoyn and require all Persons whatso<g ref="char:EOLhyphen"/>ever, as well those who have Lycences, as aforesaid, as others, that im<g ref="char:EOLhyphen"/>mediately after the Publication of this Our Order they deliver to the High-Sheriff of the County, Governour or Deputy-Governour, or to the next Commissioner of Array unto their respective Habitations or places of abode, all their Arms as well Fire-Arms, as Swords, Pikes, half-Pikes Halbards, Partizans, Skeenes, Baggonets, and all other Arms Offen<g ref="char:EOLhyphen"/>sive and Defensive whatsoever, which if they shall fail to do, and upon any after search or Information it shall be found that they have any such Arms in their Custody or Possession, they shall be deemed Persons disaf<g ref="char:EOLhyphen"/>fected to the Government and as such be proceeded against with the ut<g ref="char:EOLhyphen"/>most severity of Law. And we do hereby require all such Sheriffs or Iustices of the Peace, as aforesaid, to whom any Arms shall be delivered as aforesaid, that they give Receipts to the Parties of what they shall re<g ref="char:EOLhyphen"/>ceive from them respectively, giving also an Account thereof immediately af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:186779:2"/> to the Clerk of the Council and Carefully laying them up untill they shall receive the further Order of this Board for the disposal of them. And We do hereby declare that the reason why the said Sheriffs and Iustices of Peace are hereby Directed to give Receipts for such Arms as they shall receive is for this Intent only, That the same may be restored to such as had obtained Lycences when We shall find it may be done without dan<g ref="char:EOLhyphen"/>ger of the Publick Safety: And the said Iustices of Peace, Sheriffs, Mayors, and other Officers are hereby Impowred and required to send for any Person or Persons in whose hands it shall appear to them any Arms lately were, And if they shall not deliver the same or give a reasonable Account why they cannot do it, then they are to be proceéd<g ref="char:EOLhyphen"/>ed against according to Law, and as is Directed by Our Proclamation bearing date the 24th. day of <hi>February</hi> last.</p>
+            <closer>
+               <dateline>Given at the Council-Chamber in Dublin
+<date>the 20th. day of May, 1692.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Fran. Dublin,</item>
+                     <item>VVill. Kildare,</item>
+                     <item>Fz. Villiers,</item>
+                     <item>Ri. Reynel.</item>
+                     <item>Ri. Pyne,</item>
+                     <item>Jn<seg rend="sup">o</seg> Hely.</item>
+                  </list>
+               </signed> GOD Save the KING and QUEEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook,</hi> Assignee of <hi>Benj: Tooke,</hi> Printer to the King and Queen's Most Excellent Majesties on <hi>Ormonde-Key.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
